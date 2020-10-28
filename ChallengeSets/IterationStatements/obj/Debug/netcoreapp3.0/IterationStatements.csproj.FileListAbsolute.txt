@@ -1,0 +1,4 @@
+C:\Users\Dan\Desktop\Repos\IterationStatements\obj\Debug\netcoreapp3.0\IterationStatements.csprojAssemblyReference.cache
+C:\Users\Dan\Desktop\Repos\IterationStatements\obj\Debug\netcoreapp3.0\IterationStatements.AssemblyInfoInputs.cache
+C:\Users\Dan\Desktop\Repos\IterationStatements\obj\Debug\netcoreapp3.0\IterationStatements.AssemblyInfo.cs
+C:\Users\Dan\Desktop\Repos\IterationStatements\obj\Debug\netcoreapp3.0\IterationStatements.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ku2aPttR4Rzr+XAfYkGaYeqgTzv6F8iGFxISap7yuvWcenDdP4OLYWJcCgC+14lWWa17cAurVdEWt1OuXghHfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dan\\Desktop\\Repos\\IterationStatements\\IterationStatements.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Dan\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Dan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Dan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
